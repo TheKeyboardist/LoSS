@@ -1,0 +1,12 @@
+
+\.vs/
+
+Debug/
+
+*.sln
+
+engineTest2018-11-08\.vcxproj
+
+engineTest2018-11-08\.vcxproj\.filters
+
+engineTest2018-11-08\.vcxproj\.user
